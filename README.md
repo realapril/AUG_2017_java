@@ -9,9 +9,9 @@ Finally I made a random sudoku that changes its size by the number I type in and
 
 Screenshots
 ------------------
-Diamond shape
-<img width="210" src="https://user-images.githubusercontent.com/39916556/44596472-42937e80-a807-11e8-9243-b599a1eda0f3.png">
-Star shape
-<img width="210" src="https://user-images.githubusercontent.com/39916556/44596473-43c4ab80-a807-11e8-9c2b-32730142d74a.png">
-Random Sudoku
-<img width="210" src="https://user-images.githubusercontent.com/39916556/44596474-44f5d880-a807-11e8-8f73-4799b127f2e7.png">
+Diamond shape<br/>
+<img width="600" src="https://user-images.githubusercontent.com/39916556/44596472-42937e80-a807-11e8-9243-b599a1eda0f3.png"><br/>
+Star shape<br/>
+<img width="600" src="https://user-images.githubusercontent.com/39916556/44596473-43c4ab80-a807-11e8-9c2b-32730142d74a.png"><br/>
+Random Sudoku<br/>
+<img width="600" src="https://user-images.githubusercontent.com/39916556/44596474-44f5d880-a807-11e8-8f73-4799b127f2e7.png"><br/>
